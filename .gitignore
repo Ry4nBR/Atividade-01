@@ -1,1 +1,3 @@
-projetos-analisados/*`r`n*.log`r
+projetos-analisados/
+.vscode/
+*.log
